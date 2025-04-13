@@ -1,0 +1,15 @@
+artifact_uri: file:///S:/Coding/MLOps/Learn/mlruns/0/0f68dc0909af4c8e9552313b9d081364/artifacts
+end_time: 1744564131727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f68dc0909af4c8e9552313b9d081364
+run_name: brawny-dove-284
+run_uuid: 0f68dc0909af4c8e9552313b9d081364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744564131451
+status: 3
+tags: []
+user_id: arund
